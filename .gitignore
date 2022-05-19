@@ -1,0 +1,7 @@
+*.Rproj
+*.Rdata
+.Rhistory
+.Rproj.user
+packrat
+rsconnect
+google_analytics.js

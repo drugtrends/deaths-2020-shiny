@@ -1,0 +1,1 @@
+var AageAll=document.getElementById("ageAllA"),ADTdrug=document.getElementById("DTdrugA");function ChkIndet(){AageAll.indeterminate=!0,ADTdrug.indeterminate=!0}ChkIndet();
